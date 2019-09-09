@@ -1,0 +1,10 @@
+{
+  "data": [
+    {"id": 1, "title": "JS课程", "dengji": 0, "srcUrl": "/static/img/css.jpg", "proBor":"视频介绍：JS是一门前端必修课程！！！"},
+    {"id": 2, "title": "Html课程", "dengji": 1, "srcUrl": "/static/img/css.jpg", "proBor": "视频介绍：CSS是一门前端必修课程！！！"},
+    {"id": 3, "title": "CSS课程", "dengji": 2, "srcUrl": "/static/img/css.jpg", "proBor": "视频介绍：JQ是一门前端必修课程！！！"},
+    {"id": 4, "title": "H5课程", "dengji": 1, "srcUrl": "/static/img/css.jpg", "proBor": "视频介绍：ES6是一门前端必修课程！！！"},
+    {"id": 5, "title": "C3课程", "dengji": 0, "srcUrl": "/static/img/css.jpg", "proBor": "视频介绍：Vue是一门前端必修课程！！！"}
+
+  ]
+}
